@@ -1,0 +1,5 @@
+questionary
+matplotlib
+pandas
+requests
+beautifulsoup4
